@@ -1,4 +1,4 @@
-# mybanking
+# AegisWallet
 
 A new Flutter project.
 
